@@ -1,16 +1,10 @@
 body    {
     background-color: rgb(155, 96, 129);
     font-family: sans-serif;
+    text-align: center;
 }
 
 li  {
     padding: 5px;
 }
 
-.header {
-    text-align: center;
-}
-
-.list {
-    text-align: center;
-}
